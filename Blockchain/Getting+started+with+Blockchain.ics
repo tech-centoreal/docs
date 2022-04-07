@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//RemoteApi//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://www.meetup.com/Thoughtworks-Hyderabad/events/28480
+ 2716/ical/Getting+started+with+Blockchain.ics
+X-WR-CALNAME:Events - Getting started with Blockchain.ics
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220404T125206Z
+DTSTART;TZID=Asia/Kolkata:20220414T183000
+DTEND;TZID=Asia/Kolkata:20220414T200000
+STATUS:CONFIRMED
+SUMMARY:Getting started with Blockchain
+DESCRIPTION:Thoughtworks Hyderabad\nThursday\, April 14 at 6:30 PM\n\n**A
+ bout the event**Blockchain is the latest buzz in the technology industry
+ . And with good reason\, too. Blockchain technology is the backbone of c
+ rypt...\n\nhttps://www.meetup.com/Thoughtworks-Hyderabad/events/28480271
+ 6/
+CLASS:PUBLIC
+CREATED:20220323T163254Z
+GEO:17.39;78.48
+LOCATION:Online event
+URL:https://www.meetup.com/Thoughtworks-Hyderabad/events/284802716/
+LAST-MODIFIED:20220404T110742Z
+UID:event_284802716@meetup.com
+END:VEVENT
+END:VCALENDAR
